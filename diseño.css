@@ -1,0 +1,15 @@
+
+.encabezado{
+    position: absolute;
+    color: black;
+    width: 99%;
+    height: 192px;
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.encabezado h1{
+    font-size: 135px;
+}
