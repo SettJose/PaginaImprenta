@@ -45,6 +45,12 @@
     left: 4%;
 }
 
+#menu_productos p{
+    position: absolute;
+    top: 5%;
+    left: 34%;
+}
+
 #menu_servicios{
    position:absolute;
    background: rgb(34, 133, 109);
@@ -53,6 +59,12 @@
    height: 80%;
    top: 10%;
    left: 28%;
+}
+
+#menu_servicios p{
+    position: absolute;
+    top: 5%;
+    left: 34%;
 }
 
 #menu_cotizar{
@@ -65,6 +77,12 @@
     left: 52%;
 }
 
+#menu_cotizar p{
+    position: absolute;
+    top: 5%;
+    left: 34%;
+}
+
 #menu_nosotros{
     position:absolute;
     background: rgb(34, 133, 109);
@@ -73,6 +91,12 @@
     height: 80%;
     top: 10%;
     left: 76%;
+}
+
+#menu_nosotros p{
+    position: absolute;
+    top: 5%;
+    left: 34%;
 }
 
 #primercuerpo{
