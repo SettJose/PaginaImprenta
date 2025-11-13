@@ -4,7 +4,7 @@
 }
 
 #encabezado{
-    position:fixed;
+    position:relative;
     background: rgb(24,24,24);
     width: 99%;
     height: 140px;;
@@ -90,15 +90,15 @@
     color: bisque;
     width: 99%;
     height: 500px;
-    top: 480%
+    top: 470%
 }
 
 #footer{
-    position: relative;
+    position: absolute;
     background: rgb(0, 128, 128);
     color: bisque;
     width: 99%;
-    height: 200px;
-    top: 850%;
+    height: 100px;
+    top: 870%;
 }
 
