@@ -75,3 +75,30 @@
     left: 76%;
 }
 
+#primercuerpo{
+    position: absolute;
+    background: blue;
+    color: bisque;
+    width: 99%;
+    height: 500px;
+    top:110%;
+}
+
+#segundocuerpo{
+    position: absolute;
+    background: rgb(72, 61, 139);
+    color: bisque;
+    width: 99%;
+    height: 500px;
+    top: 480%
+}
+
+#footer{
+    position: absolute;
+    background: rgb(0, 128, 128);
+    color: bisque;
+    width: 99%;
+    height: 200px;
+    top: 850%;
+}
+
