@@ -26,3 +26,22 @@
     left: 45%;
 }
 
+#menu{
+    position:absolute;
+    background: aliceblue;
+    width: 98%;
+    height: 70px;
+    top: 45%;
+    left: 1%;
+}
+
+#menu_productos{
+    position:absolute;
+    background: red;
+    color:bisque;
+    width: 20%;
+    height: 80%;
+    top: 10%;
+    left: 1%;
+}
+
