@@ -10,4 +10,19 @@
     height: 140px;;
 }
 
+#contacto{
+    position: absolute;
+    background: red;
+    color: white;
+    width: 98%;
+    height: 50px;
+    top: 5%;
+    left: 1%;
+}
+
+#contacto h2{
+    position:absolute;
+    top: -20%;
+    left: 45%;
+}
 
