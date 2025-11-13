@@ -77,7 +77,7 @@
 
 #primercuerpo{
     position: absolute;
-    background: blue;
+    background: rgb(72, 61, 13);
     color: bisque;
     width: 99%;
     height: 500px;
@@ -94,7 +94,7 @@
 }
 
 #footer{
-    position: absolute;
+    position: relative;
     background: rgb(0, 128, 128);
     color: bisque;
     width: 99%;
