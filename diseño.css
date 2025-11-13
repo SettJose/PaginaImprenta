@@ -1,0 +1,13 @@
+#general{
+    position: relative;
+    background: aliceblue;
+}
+
+#encabezado{
+    position:fixed;
+    background: black;
+    width: 99%;
+    height: 140px;;
+}
+
+
