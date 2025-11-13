@@ -45,3 +45,34 @@
     left: 1%;
 }
 
+#menu_servicios{
+   position:absolute;
+   background: red;
+   color:bisque;
+   width: 20%;
+   height: 80%;
+   top: 10%;
+   left: 29%;
+}
+
+#menu_cotizar{
+    position:absolute;
+    background: red;
+    color: bisque;
+    width: 20%;
+    height: 80%;
+    top: 10%;
+    left: 55%;
+}
+
+#menu_nosotros{
+    position:absolute;
+    background: red;
+    color: bisque;
+    width: 20%;
+    height: 80%;
+    top: 10%;
+    left: 79%;
+}
+
+
