@@ -5,14 +5,14 @@
 
 #encabezado{
     position:fixed;
-    background: black;
+    background: rgb(24,24,24);
     width: 99%;
     height: 140px;;
 }
 
 #contacto{
     position: absolute;
-    background: red;
+    background:  rgb(24,24,24);
     color: white;
     width: 98%;
     height: 50px;
@@ -37,7 +37,7 @@
 
 #menu_productos{
     position:absolute;
-    background: red;
+    background: rgb(34, 133, 109);
     color:bisque;
     width: 20%;
     height: 80%;
@@ -47,7 +47,7 @@
 
 #menu_servicios{
    position:absolute;
-   background: red;
+   background: rgb(34, 133, 109);
    color:bisque;
    width: 20%;
    height: 80%;
@@ -57,7 +57,7 @@
 
 #menu_cotizar{
     position:absolute;
-    background: red;
+    background: rgb(34, 133, 109);
     color: bisque;
     width: 20%;
     height: 80%;
@@ -67,12 +67,11 @@
 
 #menu_nosotros{
     position:absolute;
-    background: red;
+    background: rgb(34, 133, 109);
     color: bisque;
     width: 20%;
     height: 80%;
     top: 10%;
     left: 76%;
 }
-
 
