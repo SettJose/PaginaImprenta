@@ -10,7 +10,7 @@
     height: 140px;;
 }
 
-#contacto{
+#nombreempresa{
     position: absolute;
     background:  rgb(24,24,24);
     color: white;
@@ -20,10 +20,21 @@
     left: 1%;
 }
 
-#contacto h2{
+#nombreempresa h2{
     position:absolute;
     top: -20%;
-    left: 45%;
+    left: 49%;
+}
+
+#circuloprincipal{
+    position: absolute;
+    background: rgb(34, 133, 109);
+    color: rgb(182, 149, 109);
+    width: 60%;
+    height: 60%;
+    top: 15%;
+    left: 33%;
+    border-radius: 50%;
 }
 
 #menu{
@@ -43,6 +54,12 @@
     height: 80%;
     top: 10%;
     left: 4%;
+    border: none;
+    border-radius: 12px; /* Esquinas redondeadas suaves */
+    font-size: 16px;
+    cursor: pointer;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.12);
+    transition: all 0.2s ease;
 }
 
 #menu_productos p{
@@ -59,6 +76,12 @@
    height: 80%;
    top: 10%;
    left: 28%;
+   border: none;
+    border-radius: 12px; /* Esquinas redondeadas suaves */
+    font-size: 16px;
+    cursor: pointer;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.12);
+    transition: all 0.2s ease;
 }
 
 #menu_servicios p{
@@ -75,6 +98,12 @@
     height: 80%;
     top: 10%;
     left: 52%;
+    border: none;
+    border-radius: 12px; /* Esquinas redondeadas suaves */
+    font-size: 16px;
+    cursor: pointer;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.12);
+    transition: all 0.2s ease;
 }
 
 #menu_cotizar p{
@@ -91,6 +120,12 @@
     height: 80%;
     top: 10%;
     left: 76%;
+    border: none;
+    border-radius: 12px; /* Esquinas redondeadas suaves */
+    font-size: 16px;
+    cursor: pointer;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.12);
+    transition: all 0.2s ease;
 }
 
 #menu_nosotros p{
