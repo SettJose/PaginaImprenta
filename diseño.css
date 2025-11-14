@@ -126,3 +126,52 @@
     top: 885%;
 }
 
+#pc_fotos{
+    position: absolute;
+    background: red;
+    width: 75%;
+    height: 98%;
+    top: 1%;
+    left: 1%;
+}
+
+#pc_redes{
+    position: absolute;
+    background: bisque;
+    width: 22%;
+    height: 98%;
+    top: 1%;
+    left: 77%;
+}
+
+#pcfotos_imprenta{
+    position: absolute;
+    background: blue;
+    color: bisque;
+    width: 60%;
+    height: 98%;
+    top: 1%;
+    left: 1%;
+}
+
+#pcfotos_ubicacion{
+    position: absolute;
+    background: yellowgreen;
+    color: bisque;
+    width: 30%;
+    height: 98%;
+    top: 1%;
+    left: 66%;
+}
+
+#pcredes_whatssap{
+    position: absolute;
+    background: purple;
+    color: bisque;
+    width: 35%;
+    height: 18%;
+    top: 38%;
+    left: 35%;
+    border-radius: 50%;
+}
+
