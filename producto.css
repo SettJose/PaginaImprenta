@@ -1,0 +1,172 @@
+#general{
+    position: relative;
+    background: aliceblue;
+    width: 102%;
+    right: 1%;;
+}
+
+#encabezado{
+    position:relative;
+    
+    width: 100%;
+    height: 140px;;
+}
+
+#nombreempresa{
+    position: absolute;
+    background:  rgb(50, 48, 48);
+    color: white;
+    width: 100%;
+    height: 50px;
+    top: 5%;
+    left: 0%;
+}
+
+#nombreempresa h2{
+    position:absolute;
+    top: -20%;
+    left: 48%;
+}
+
+#circuloprincipal{
+    position: absolute;
+    background: rgb(34, 133, 109);
+    color: rgb(182, 149, 109);
+    width: 45px;
+    height: 45px; 
+    top: 3%; 
+    left: 634px;
+    border-radius: 50%;
+}
+
+#menu{
+    position:absolute;
+    background: aliceblue;
+    width: 98%;
+    height: 70px;
+    top: 45%;
+    left: 1%;
+}
+
+#menu_productos{
+    position:absolute;
+    background: rgb(131, 0, 0);
+    color:white;
+    width: 20%;
+    height: 80%;
+    top: 10%;
+    left: 4%;
+    border: none;
+    border-radius: 12px; /* Esquinas redondeadas suaves */
+    font-size: 16px;
+    cursor: pointer;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.12);
+    transition: all 0.2s ease;
+}
+
+#menu_productos p{
+    position: absolute;
+    top: 5%;
+    left: 34%;
+}
+
+#menu_servicios{
+   position:absolute;
+   background: rgb(131, 0, 0);
+   color: white;
+   width: 20%;
+   height: 80%;
+   top: 10%;
+   left: 28%;
+   border: none;
+    border-radius: 12px; /* Esquinas redondeadas suaves */
+    font-size: 16px;
+    cursor: pointer;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.12);
+    transition: all 0.2s ease;
+}
+
+#menu_servicios p{
+    position: absolute;
+    top: 5%;
+    left: 34%;
+}
+
+#menu_cotizar{
+    position:absolute;
+    background: rgb(131, 0, 0);
+    color: white;
+    width: 20%;
+    height: 80%;
+    top: 10%;
+    left: 52%;
+    border: none;
+    border-radius: 12px; /* Esquinas redondeadas suaves */
+    font-size: 16px;
+    cursor: pointer;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.12);
+    transition: all 0.2s ease;
+}
+
+#menu_cotizar p{
+    position: absolute;
+    top: 5%;
+    left: 34%;
+}
+
+#menu_nosotros{
+    position:absolute;
+    background: rgb(131, 0, 0); 
+    color: white;
+    width: 20%;
+    height: 80%;
+    top: 10%;
+    left: 76%;
+    border: none;
+    border-radius: 12px; /* Esquinas redondeadas suaves */
+    font-size: 16px;
+    cursor: pointer;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.12);
+    transition: all 0.2s ease;
+}
+
+#menu_nosotros p{
+    position: absolute;
+    top: 5%;
+    left: 34%;
+}
+
+#primercuerpo{
+    position: absolute;
+    background: rgb(72, 61, 13);
+    color: white;
+    width: 100%;
+    height: 500px;
+    top:125%;
+}
+
+#footer{
+    position: absolute;
+    background: rgb(0, 128, 128);
+    color: bisque;
+    width: 100%;
+    height: 100px;
+    top: 885%;
+}
+
+#footercuerpo{
+    position: absolute;
+    background: rgb(158, 60, 60);
+    color: white;
+    width: 85%;
+    height: 75%;
+    left: 7%;
+    top: 12%;
+}
+
+#footertexto{
+    position: absolute;
+    color: white;
+    left: 50%;
+    top: 12%;
+}
