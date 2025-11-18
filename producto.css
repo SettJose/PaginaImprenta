@@ -1,18 +1,18 @@
-#general{
+#general_producto{
     position: relative;
     background: aliceblue;
     width: 102%;
     right: 1%;;
 }
 
-#encabezado{
+#encabezado_producto{
     position:relative;
     
     width: 100%;
     height: 140px;;
 }
 
-#nombreempresa{
+#nombreempresa_producto{
     position: absolute;
     background:  rgb(50, 48, 48);
     color: white;
