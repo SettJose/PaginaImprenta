@@ -154,6 +154,60 @@
     top: 505%
 }
 
+#valor1{
+    position: absolute;
+    background: rgb(158, 60, 60);
+    color: white;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    left: 33%;
+    top: 75%;
+}
+
+#valor1txt{
+    position: absolute;
+    color: white;
+    left: 40%;
+    top: 25%;
+}
+
+#valor2{
+    position: absolute;
+    background: rgb(158, 60, 60);
+    color: white;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    left: 48%;
+    top: 75%;
+}
+
+#valor2txt{
+    position: absolute;
+    color: white;
+    left: 40%;
+    top: 25%;
+}
+
+#valor3{
+    position: absolute;
+    background: rgb(158, 60, 60);
+    color: white;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    left: 65%;
+    top: 75%;
+}
+
+#valor3txt{
+    position: absolute;
+    color: white;
+    left: 40%;
+    top: 25%;
+}
+
 #footer{
     position: absolute;
     background: rgb(0, 128, 128);
