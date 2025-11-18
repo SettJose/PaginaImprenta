@@ -19,23 +19,23 @@
     width: 100%;
     height: 50px;
     top: 5%;
-    left: %;
+    left: 0%;
 }
 
 #nombreempresa h2{
     position:absolute;
     top: -20%;
-    left: 49%;
+    left: 48%;
 }
 
 #circuloprincipal{
     position: absolute;
     background: rgb(34, 133, 109);
     color: rgb(182, 149, 109);
-    width: 31%;
-    height: 14%;
-    top: 38%;
-    left: 50%;
+    width: 45px;
+    height: 45px; 
+    top: 3%; 
+    left: 634px;
     border-radius: 50%;
 }
 
