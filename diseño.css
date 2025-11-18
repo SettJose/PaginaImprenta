@@ -163,6 +163,22 @@
     top: 885%;
 }
 
+#footercuerpo{
+    position: absolute;
+    background: rgb(158, 60, 60);
+    color: white;
+    width: 85%;
+    height: 75%;
+    left: 7%;
+    top: 12%;
+}
+
+#footertexto{
+    position: absolute;
+    color: white;
+    left: 50%;
+    top: 12%;
+}
 #pc_fotos{
     position: absolute;
     background: purple;
