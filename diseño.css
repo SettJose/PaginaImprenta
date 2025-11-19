@@ -1,16 +1,8 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-
-
 #general{
     position: relative;
     background: aliceblue;
     width: 102%;
-    right: 1%;;
+    right: 1%;
 }
 
 #encabezado{
@@ -27,26 +19,27 @@
     height: 50px;
     top: 5%;
     left: 0%;
+
 }
 
 #nombreempresa h2{
     position:absolute;
     top: -15%;
-    left: 48%;
+    left: 48.5%;
 }
 
 #nombreempresa_txt1{
     position: absolute;
     color: white;
-    top: 0%;
-    left: 51%;
+    top: 2%;
+    left: 52%;
 }
 
 #nombreempresa_txt2{
     position: absolute;
     color: white;
-    top: 10%;
-    left: 51%;
+    top: 11%;
+    left: 52%;
 }
 
 #circuloprincipal{
@@ -55,8 +48,8 @@
     color: rgb(182, 149, 109);
     width: 45px;
     height: 45px; 
-    top: 4%; 
-    left: 50%;
+    top: 3%; 
+    left: 48%;
     border-radius: 50%;
     flex-wrap:wrap;
 }
