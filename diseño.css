@@ -65,13 +65,14 @@
 }
 
 #menu{
-    position:absolute;
+    position:fixed;
     background: aliceblue;
     width: 98%;
     height: 70px;
-    top: 45%;
+    top: 15%;
     left: 1%;
     flex-wrap:wrap;
+    z-index: 9998;
 }
 
 #menu_productos{
@@ -300,14 +301,15 @@
 }
 
 #pcredes_whatssap{
-    position: absolute;
+    position:fixed;
     background: rgb(34, 133, 109);
     color: rgb(182, 149, 109);
     width: 65px;
     height: 65px;
-    top: 38%;
-    left: 85%;
+    top: 24%;
+    left: 94%;
     border-radius: 50%;
+    z-index: 9999;
 }
 
 #footer{
