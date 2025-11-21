@@ -32,9 +32,11 @@
     height: 50px;
     top: 3%;
     left: 48%;
-    font-family: "Marko One", serif;
-    font-weight: 400;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
     font-style: normal;
+    font-variation-settings: "wdth" 100;
 }
 
 #nombreempresa h2{
@@ -52,9 +54,11 @@
     height: 50px;
     top: 3%;
     left: 52%;
-    font-family: "Marko One", serif;
-    font-weight: 400;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
     font-style: normal;
+    font-variation-settings: "wdth" 100;
 }
 
 #nombre_producto p{
@@ -83,9 +87,11 @@
     position: absolute;
     top: 5%;
     left: 42%;
-    font-family: "Marko One", serif;
-    font-weight: 400;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
     font-style: normal;
+    font-variation-settings: "wdth" 100;
 }
 
 #menu_servicios{
@@ -102,18 +108,22 @@
     cursor: pointer;
     box-shadow: 0 4px 10px rgba(0,0,0,0.12);
     transition: all 0.2s ease;
-    font-family: "Marko One", serif;
-    font-weight: 400;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
     font-style: normal;
+    font-variation-settings: "wdth" 100;
 }
 
 #menu_servicios p{
     position: absolute;
     top: 5%;
     left: 34%;
-    font-family: "Marko One", serif;
-    font-weight: 400;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
     font-style: normal;
+    font-variation-settings: "wdth" 100;
 }
 
 #menu_cotizar{
@@ -136,9 +146,11 @@
     position: absolute;
     top: 5%;
     left: 34%;
-    font-family: "Marko One", serif;
-    font-weight: 400;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
     font-style: normal;
+    font-variation-settings: "wdth" 100;
 }
 
 #menu_nosotros{
@@ -161,9 +173,11 @@
     position: absolute;
     top: 5%;
     left: 34%;
-    font-family: "Marko One", serif;
-    font-weight: 400;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
     font-style: normal;
+    font-variation-settings: "wdth" 100;
 }
 
 #encabezado_producto1{
@@ -178,13 +192,13 @@
 
 #texto_producto1 p{
     position: absolute;
-    top: 5%;
-    left: 40%;
-    font-size: 24px;
-    font-weight: bold;
-    font-family: "Marko One", serif;
-    font-weight: 400;
+    top: 15%;
+    left: 45%;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
     font-style: normal;
+    font-variation-settings: "wdth" 100;
 }
 
 
@@ -212,7 +226,9 @@
     color: white;
     left: 40%;
     top: 12%;
-    font-family: "Marko One", serif;
-    font-weight: 400;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
     font-style: normal;
+    font-variation-settings: "wdth" 100;
 }
